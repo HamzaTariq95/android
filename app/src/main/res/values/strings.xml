@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Prototype</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="words">
+        <item>supplying</item>
+        <item>victoriously</item>
+        <item>oxytocic</item>
+        <item>snakeroot</item>
+        <item>linstock</item>
+        <item>lilius</item>
+        <item>subnumber</item>
+        <item>reneutralizing</item>
+        <item>recrudescent</item>
+        <item>prelacteal</item>
+        <item>rete</item>
+        <item>transfashion</item>
+        <item>hulkier</item>
+        <item>unfreezable</item>
+        <item>tackiest</item>
+        <item>endogamic</item>
+        <item>ambidextrousness</item>
+        <item>diocletian</item>
+        <item>prevacation</item>
+        <item>evacuee</item>
+        <item>unprecedential</item>
+        <item>butch</item>
+        <item>numnah</item>
+        <item>chloroethene</item>
+        <item>tattooing</item>
+        <item>breshkovsky</item>
+        <item>ijssel</item>
+        <item>salvini</item>
+        <item>zoomorphism</item>
+        <item>icebreaker</item>
+        <item>exasperater</item>
+        <item>samuel</item>
+        <item>sheers</item>
+        <item>albigensian</item>
+        <item>splake</item>
+        <item>monochromatically</item>
+        <item>bletting</item>
+        <item>rancherie</item>
+        <item>striated</item>
+        <item>undragoned</item>
+        <item>imperialistic</item>
+        <item>antipriest</item>
+        <item>succorer</item>
+        <item>pseudoidentical</item>
+        <item>primipara</item>
+        <item>unsettledness</item>
+        <item>downdraft</item>
+        <item>testosterone</item>
+        <item>enculturated</item>
+        <item>chorioepitheliomas</item>
+    </string-array>
+    <string name="title_activity_details">details</string>
+
+</resources>
